@@ -1,0 +1,10 @@
+9
+Scratch 	damage 	4
+Bite 		damage 	10
+Cookie 		heal 	8
+Candy	 	heal 	6
+Kungfu 		damage 	6
+BigBlast	damage 	4
+Nap 		heal 	5
+EvilLook	damage 	1
+Steak		heal	10
